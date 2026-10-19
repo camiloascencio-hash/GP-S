@@ -1,0 +1,30 @@
+{
+  "config": {
+    "semilla": 20260923,
+    "repo": "https://github.com/camiloascencio-hash/GP-S.git",
+    "carpeta_datos": "GP-S/datos",
+    "carpeta_resultados": "resultados",
+    "copiar_a_drive": false,
+    "carpeta_drive": "BdM_Entrega1_resultados",
+    "semanas_fase1": 5,
+    "n_subgrupo": 5,
+    "cpk_objetivo": 1.33,
+    "H": 13,
+    "S": 52,
+    "ventanas": 8,
+    "paso": 3,
+    "umbral_atipico": 3.0,
+    "semanas_proporcion": 52,
+    "niveles_ip": [
+      0.8,
+      0.95
+    ]
+  },
+  "versiones": {
+    "python": "3.13.16",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "statsmodels": "0.15.0",
+    "scipy": "1.18.1"
+  }
+}

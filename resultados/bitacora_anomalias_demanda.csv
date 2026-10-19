@@ -1,0 +1,13 @@
+sku,semana,que_es,deteccion,accion
+CIT-L15,101,Dato faltante,ventas_cajas y dias_sin_stock vacíos,Interpolación lineal entre semanas vecinas
+CIT-L15,102,Dato faltante,ventas_cajas y dias_sin_stock vacíos,Interpolación lineal entre semanas vecinas
+CIT-L15,103,Dato faltante,ventas_cajas y dias_sin_stock vacíos,Interpolación lineal entre semanas vecinas
+NEC-D15,63,"Valor atípico (20052 cajas, promoción = 1)","9.4 veces el nivel de las 13 semanas previas (con promoción la razón no pasa de ~2,6)",Se reemplaza por el nivel local (2144 cajas)
+CIT-L05,118,"Valor atípico (32916 cajas, promoción = 0)","15.5 veces el nivel de las 13 semanas previas (con promoción la razón no pasa de ~2,6)",Se reemplaza por el nivel local (2126 cajas)
+FUN-B05,98,Quiebre estructural (nivel +68 %),Corte de dos niveles en la serie desestacionalizada,Se conserva; los modelos con nivel adaptativo lo siguen
+FUN-B15,96,Quiebre estructural (nivel +71 %),Corte de dos niveles en la serie desestacionalizada,Se conserva; los modelos con nivel adaptativo lo siguen
+FUN-B30,varias,Demanda intermitente (69 semanas en cero),"ADI = 1.79 > 1,32; ningún cero coincide con quiebre de stock","Los ceros se conservan (son demanda nula real, no faltantes ni atípicos)"
+todos,≈11 % de las semanas,"Promociones: suben la venta ≈1,5 a 1,7 veces",Lift contra semanas vecinas sin promoción,Se modela como regresor en SARIMAX (justificación en 4.3)
+CIT-L05,varias,Quiebres de stock (1 días en 1 semanas),dias_sin_stock > 0,Venta censurada: se reconstruye la demanda (4.2)
+FUN-B15,varias,Quiebres de stock (2 días en 2 semanas),dias_sin_stock > 0; la venta repite su máximo (2988 cajas),Venta censurada: se reconstruye la demanda (4.2)
+FUN-B30,varias,Quiebres de stock (139 días en 55 semanas),dias_sin_stock > 0; la venta repite su máximo (324 cajas),Venta censurada: se reconstruye la demanda (4.2)
