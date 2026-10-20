@@ -1,0 +1,4 @@
+semana,fecha_lunes,anio_iso,semana_iso,sku,ventas_cajas,dias_sin_stock,promocion,precio_lista_clp,precio_efectivo_clp
+101,2025-09-01,2025,36,CIT-L15,,,0,7980,7980
+102,2025-09-08,2025,37,CIT-L15,,,1,7980,6433
+103,2025-09-15,2025,38,CIT-L15,,,0,7980,7980

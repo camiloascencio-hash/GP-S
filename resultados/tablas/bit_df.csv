@@ -1,0 +1,18 @@
+archivo,chequeo,resultado,decision
+calidad_llenado,Valores faltantes,0 celdas vacías,Sin acción
+calidad_llenado,"Duplicados (subgrupo, n_obs)",0 duplicados,Sin acción
+calidad_llenado,Tamaño de subgrupo,n = [5] en 840 subgrupos,n = 5 constante: se usan las constantes de la carta X̄–R
+calidad_llenado,"Subgrupos que mezclan línea, SKU o turno",máximo 1 valor distinto por subgrupo,Sin acción: los subgrupos son racionales
+calidad_llenado,Volúmenes ≤ 0,0 valores,Sin acción
+calidad_llenado,"Subgrupos por línea, formato y turno","mínimo 76, máximo 124",Se reporta el desbalance; la capacidad por turno se lee con su n
+calidad_atributos,Valores faltantes,0 celdas vacías,Sin acción
+calidad_atributos,Filas duplicadas,0 duplicados,Sin acción
+calidad_atributos,Defectuosas > inspeccionadas,0 filas,Sin acción
+calidad_atributos,Tamaño de inspección n,entre 181 y 260,n varía: carta p con límites variables (no np)
+calidad_atributos,Categoría 'Sin defectos',2 filas,Cuentan para p; se excluyen del Pareto
+especificaciones_calidad,Valores faltantes,0 celdas vacías,Sin acción
+maestro_sku,Valores faltantes,0 celdas vacías,Sin acción
+demanda_semanal,Valores faltantes,"3 filas sin ventas_cajas ni dias_sin_stock (['CIT-L15'], semanas [101, 102, 103])",Interpolación lineal (celda 2.3)
+demanda_semanal,Filas duplicadas,0 duplicados,Sin acción
+demanda_semanal,Semanas x SKU,156 semanas x 9 SKU = 1404 filas,Panel completo
+demanda_semanal,Valores atípicos (> 3 veces el nivel de las 13 semanas previas),2 valores,Se reemplazan por el nivel local (ver bitácora de anomalías)

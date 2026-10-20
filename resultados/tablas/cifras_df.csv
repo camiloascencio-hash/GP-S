@@ -1,0 +1,20 @@
+,valor
+"L1 0,5 L: corrimiento de la media Fase I -> Fase II (mL)",3.25
+"L1 0,5 L: % subgrupos de Fase II con señal",100.00
+"L1 0,5 L: Cp / Cpk Fase I",1.28 / 0.88
+"L1 0,5 L: Ppk Fase II",0.38
+"L2 1,5 L: Cp / Cpk Fase I",1.01 / 0.72
+"L2 3,0 L: Cp / Cpk Fase I",1.01 / 0.66
+"Turno C L2: Cpk 1,5 L / 3,0 L",0.49 / 0.49
+Cumple OIML R87 en todas las combinaciones,True
+Merma rho L1 / L2 (%),1.92 / 3.11
+Sobrellenado vigente: litros/año,"32,792.93"
+Sobrellenado vigente: MM CLP/año (costo variable),21.15
+Recuperable recentrando L1 (MM CLP/año),12.96
+FUN-B30: demanda perdida por quiebres (% de la venta),48.90
+Modelo elegido / WAPE origen deslizante (%),SARIMAX / 20.2
+WAPE benchmark ingenuo estacional (%),27.60
+Método jerárquico elegido / WAPE SKU (%),Middle-out / 19.1
+Prueba 144-156: WAPE SKU elegido vs benchmark (%),22.8 vs 27.9
+Cobertura IP 80 % / 95 % en prueba (%),93 / 99
+Pronóstico Planta 13 semanas (cajas),"179,213.94"
