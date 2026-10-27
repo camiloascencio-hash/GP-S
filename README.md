@@ -29,13 +29,13 @@ El caso es un solo proyecto que se construye por capas: lo que se concluye en un
 | Ruta | Contenido |
 |---|---|
 | `datos/` | Datos del caso en CSV y su descripción |
-| Cuadernos | Un cuaderno de Colab por entrega, con el código y su explicación |
+| `Entrega1_BdM_DEFF.ipynb` | Cuaderno de Colab de la Entrega 1, con el código y su explicación (los cuadernos de las próximas entregas se agregarán aquí) |
 | `resultados/` | Tablas, figuras y archivos que genera el código, usados en los informes |
 | `requirements.txt` | Versiones de las librerías |
 
 ## Cómo reproducir los resultados
 
-1. Abrir el cuaderno de la entrega en Google Colab.
+1. Abrir el cuaderno de la entrega en Google Colab (por ejemplo, `Entrega1_BdM_DEFF.ipynb`).
 2. Ir a **Entorno de ejecución → Reiniciar y ejecutar todo**.
 3. El cuaderno clona este repositorio, lee los datos de `GP-S/datos` y escribe la carpeta `resultados/`.
 
