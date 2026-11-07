@@ -1,0 +1,29 @@
+,valor
+"L1 0,5 L: corrimiento de la media Fase I -> Fase II (mL)",3.25
+"L1 0,5 L: % subgrupos de Fase II con señal",100.00
+Fase I: subgrupos excluidos (causa no confirmada),12
+Fase I depurada: subgrupos con señal WE que persisten,11
+"L1 0,5 L: Cp / Cpk Fase I",1.28 / 0.88
+"L1 0,5 L: Ppk Fase II",0.38
+"L2 1,5 L: Cp / Cpk Fase I",1.01 / 0.72
+"L2 3,0 L: Cp / Cpk Fase I",1.01 / 0.66
+Cumple OIML R87 en todas las combinaciones,True
+Merma rho L1 / L2 (%),1.92 / 3.11
+Sobrellenado vigente (régimen actual): litros/año,"32,792.93"
+Sobrellenado vigente (régimen actual): MM CLP/año,21.15
+"Sobrellenado vigente, rango según base de volumen (MM CLP/año)",18.7 a 21.3
+Escenario A L1 (recentrar): ahorro MM CLP/año / Cpk resultante,13.0 / 1.22
+"Escenario B L1 (σ a Cp 1,33): reducción de σ % / ahorro total MM CLP/año",4.1 / 13.8
+FUN-B30: demanda perdida por quiebres en el desarrollo (% de la venta),50.54
+Modelo elegido / WAPE validación vs observación original (%),SARIMAX / 24.3
+WAPE benchmark ingenuo estacional (%),31.29
+Selección robusta al tratamiento del atípico,True
+Método jerárquico elegido / WAPE SKU (%),Middle-out / 23.4
+Prueba 144-156: WAPE SKU elegido vs benchmark (%),22.8 vs 27.9
+Regla de intervalo (elegida en desarrollo),Cuantiles empíricos
+Cobertura LOO desarrollo IP 80 / 95 % (%),79 / 92
+Cobertura prueba IP 80 / 95 % (%),74 / 90
+Cobertura prueba IP 80 / 95 % con el estimador v1 (%),93 / 99
+"Stock de seguridad medio semanal, 9 SKU: DE vs v1 (cajas)","5,721 vs 6,668"
+Pronóstico Planta 13 semanas (cajas),"179,214.03"
+Ajustes de validación no convergidos (%),0.00
