@@ -20,15 +20,15 @@ El caso es un solo proyecto que se construye por capas: lo que se concluye en un
 
 | Entrega | Tema | Estado |
 |---|---|---|
-| 1 | Calidad y pronóstico | Entregada |
-| 2 | Planificación de producción e inventario | Pendiente |
+| 1 | Calidad y pronóstico | Entregada (21/10/2026); código corregido según la retroalimentación del 04/11/2026 |
+| 2 | Planificación de producción e inventario | En proceso  |
 | Final | Secuenciamiento e integración | Pendiente |
 
 ## Estructura del repositorio
 
 | Ruta | Contenido |
 |---|---|
-| `datos/` | Datos del caso en CSV y su descripción |
+| `datos/` | Datos crudos del caso en CSV (no se modifican; toda transformación ocurre en el código). El diccionario de datos está en la sección 5 del enunciado |
 | `Entrega1_BdM_DEFF.ipynb` | Cuaderno de Colab de la Entrega 1, con el código y su explicación (los cuadernos de las próximas entregas se agregarán aquí) |
 | `resultados/` | Tablas, figuras y archivos que genera el código, usados en los informes |
 | `requirements.txt` | Versiones de las librerías |
@@ -36,7 +36,7 @@ El caso es un solo proyecto que se construye por capas: lo que se concluye en un
 ## Cómo reproducir los resultados
 
 1. Abrir el cuaderno de la entrega en Google Colab (por ejemplo, `Entrega1_BdM_DEFF.ipynb`).
-2. Ir a **Entorno de ejecución → Reiniciar y ejecutar todo**.
+2. Ir a **Entorno de ejecución → Desconectar y borrar entorno de ejecución** y luego a **Entorno de ejecución → Ejecutar todo**. Reiniciar no basta: la carpeta `GP-S` de una ejecución anterior queda en la sesión y el cuaderno no vuelve a clonar el repositorio.
 3. El cuaderno clona este repositorio, lee los datos de `GP-S/datos` y escribe la carpeta `resultados/`.
 
 Los resultados son deterministas (semilla `20260923`). Los parámetros y versiones de cada ejecución quedan en `resultados/config_ejecucion.json`.
