@@ -1,3 +1,2 @@
-,IP 80 %,IP 95 %
-cobertura empírica %,93.16239316239316,99.14529914529915
-cobertura nominal %,80.0,95.0
+metodo,cobertura prueba 80 %,cobertura prueba 95 %
+Cuantiles empíricos,73.50427350427351,89.74358974358975

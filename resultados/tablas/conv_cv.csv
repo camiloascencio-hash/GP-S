@@ -1,0 +1,7 @@
+modelo,ajustes,convergidos,con_reintento,con_avisos,% no convergido
+ETS,72,72,0,0,0.0
+ETS [sens. sin limpieza],16,16,0,0,0.0
+SARIMA,72,72,0,1,0.0
+SARIMA [sens. sin limpieza],16,16,0,0,0.0
+SARIMAX,72,72,6,6,0.0
+SARIMAX [sens. sin limpieza],16,16,1,3,0.0

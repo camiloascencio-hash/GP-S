@@ -1,0 +1,5 @@
+variable,nivel,uso,conocida en t+1..t+13,valor en validación y pronóstico,excepción
+promocion,SKU,Regresor SARIMAX,No: no hay calendario de promociones futuras en los datos,"Frecuencia de promoción de las 52 semanas previas al origen, constante en h = 1..13","«SARIMAX (calendario)» usa la promoción real: solo referencia, no elegible"
+n.º de SKU en promoción,Familia y Planta,Regresor SARIMAX,No,Promedio de las 52 semanas previas al origen,Ídem
+precio_efectivo / precio_lista,Todos,No se usa,Precio de lista constante; el efectivo solo cambia con la promoción,—,Correlación con la promoción 0.98 (desarrollo)
+dias_sin_stock,SKU,"Reconstrucción de la demanda (4.2), no regresor",No,Se pronostica demanda sin restricción,—

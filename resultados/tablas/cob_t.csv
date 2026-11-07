@@ -1,0 +1,937 @@
+,metodo,nivel,serie,dentro
+0,RMSE suavizado (v1),0.8,CIT-L05,True
+1,RMSE suavizado (v1),0.8,CIT-L05,True
+2,RMSE suavizado (v1),0.8,CIT-L05,True
+3,RMSE suavizado (v1),0.8,CIT-L05,True
+4,RMSE suavizado (v1),0.8,CIT-L05,True
+5,RMSE suavizado (v1),0.8,CIT-L05,True
+6,RMSE suavizado (v1),0.8,CIT-L05,True
+7,RMSE suavizado (v1),0.8,CIT-L05,True
+8,RMSE suavizado (v1),0.8,CIT-L05,True
+9,RMSE suavizado (v1),0.8,CIT-L05,True
+10,RMSE suavizado (v1),0.8,CIT-L05,True
+11,RMSE suavizado (v1),0.8,CIT-L05,True
+12,RMSE suavizado (v1),0.8,CIT-L05,True
+13,RMSE suavizado (v1),0.8,CIT-L15,True
+14,RMSE suavizado (v1),0.8,CIT-L15,True
+15,RMSE suavizado (v1),0.8,CIT-L15,True
+16,RMSE suavizado (v1),0.8,CIT-L15,True
+17,RMSE suavizado (v1),0.8,CIT-L15,True
+18,RMSE suavizado (v1),0.8,CIT-L15,True
+19,RMSE suavizado (v1),0.8,CIT-L15,True
+20,RMSE suavizado (v1),0.8,CIT-L15,True
+21,RMSE suavizado (v1),0.8,CIT-L15,False
+22,RMSE suavizado (v1),0.8,CIT-L15,True
+23,RMSE suavizado (v1),0.8,CIT-L15,True
+24,RMSE suavizado (v1),0.8,CIT-L15,True
+25,RMSE suavizado (v1),0.8,CIT-L15,True
+26,RMSE suavizado (v1),0.8,CIT-L30,True
+27,RMSE suavizado (v1),0.8,CIT-L30,True
+28,RMSE suavizado (v1),0.8,CIT-L30,True
+29,RMSE suavizado (v1),0.8,CIT-L30,True
+30,RMSE suavizado (v1),0.8,CIT-L30,True
+31,RMSE suavizado (v1),0.8,CIT-L30,True
+32,RMSE suavizado (v1),0.8,CIT-L30,True
+33,RMSE suavizado (v1),0.8,CIT-L30,True
+34,RMSE suavizado (v1),0.8,CIT-L30,True
+35,RMSE suavizado (v1),0.8,CIT-L30,True
+36,RMSE suavizado (v1),0.8,CIT-L30,True
+37,RMSE suavizado (v1),0.8,CIT-L30,True
+38,RMSE suavizado (v1),0.8,CIT-L30,True
+39,RMSE suavizado (v1),0.8,FUN-B05,True
+40,RMSE suavizado (v1),0.8,FUN-B05,True
+41,RMSE suavizado (v1),0.8,FUN-B05,True
+42,RMSE suavizado (v1),0.8,FUN-B05,True
+43,RMSE suavizado (v1),0.8,FUN-B05,True
+44,RMSE suavizado (v1),0.8,FUN-B05,True
+45,RMSE suavizado (v1),0.8,FUN-B05,True
+46,RMSE suavizado (v1),0.8,FUN-B05,True
+47,RMSE suavizado (v1),0.8,FUN-B05,False
+48,RMSE suavizado (v1),0.8,FUN-B05,True
+49,RMSE suavizado (v1),0.8,FUN-B05,True
+50,RMSE suavizado (v1),0.8,FUN-B05,True
+51,RMSE suavizado (v1),0.8,FUN-B05,True
+52,RMSE suavizado (v1),0.8,FUN-B15,True
+53,RMSE suavizado (v1),0.8,FUN-B15,True
+54,RMSE suavizado (v1),0.8,FUN-B15,True
+55,RMSE suavizado (v1),0.8,FUN-B15,True
+56,RMSE suavizado (v1),0.8,FUN-B15,True
+57,RMSE suavizado (v1),0.8,FUN-B15,True
+58,RMSE suavizado (v1),0.8,FUN-B15,True
+59,RMSE suavizado (v1),0.8,FUN-B15,True
+60,RMSE suavizado (v1),0.8,FUN-B15,True
+61,RMSE suavizado (v1),0.8,FUN-B15,True
+62,RMSE suavizado (v1),0.8,FUN-B15,True
+63,RMSE suavizado (v1),0.8,FUN-B15,True
+64,RMSE suavizado (v1),0.8,FUN-B15,True
+65,RMSE suavizado (v1),0.8,FUN-B30,True
+66,RMSE suavizado (v1),0.8,FUN-B30,True
+67,RMSE suavizado (v1),0.8,FUN-B30,True
+68,RMSE suavizado (v1),0.8,FUN-B30,True
+69,RMSE suavizado (v1),0.8,FUN-B30,True
+70,RMSE suavizado (v1),0.8,FUN-B30,True
+71,RMSE suavizado (v1),0.8,FUN-B30,True
+72,RMSE suavizado (v1),0.8,FUN-B30,True
+73,RMSE suavizado (v1),0.8,FUN-B30,True
+74,RMSE suavizado (v1),0.8,FUN-B30,True
+75,RMSE suavizado (v1),0.8,FUN-B30,True
+76,RMSE suavizado (v1),0.8,FUN-B30,True
+77,RMSE suavizado (v1),0.8,FUN-B30,True
+78,RMSE suavizado (v1),0.8,NEC-D05,True
+79,RMSE suavizado (v1),0.8,NEC-D05,True
+80,RMSE suavizado (v1),0.8,NEC-D05,True
+81,RMSE suavizado (v1),0.8,NEC-D05,True
+82,RMSE suavizado (v1),0.8,NEC-D05,True
+83,RMSE suavizado (v1),0.8,NEC-D05,True
+84,RMSE suavizado (v1),0.8,NEC-D05,True
+85,RMSE suavizado (v1),0.8,NEC-D05,True
+86,RMSE suavizado (v1),0.8,NEC-D05,True
+87,RMSE suavizado (v1),0.8,NEC-D05,True
+88,RMSE suavizado (v1),0.8,NEC-D05,True
+89,RMSE suavizado (v1),0.8,NEC-D05,True
+90,RMSE suavizado (v1),0.8,NEC-D05,True
+91,RMSE suavizado (v1),0.8,NEC-D15,True
+92,RMSE suavizado (v1),0.8,NEC-D15,True
+93,RMSE suavizado (v1),0.8,NEC-D15,False
+94,RMSE suavizado (v1),0.8,NEC-D15,False
+95,RMSE suavizado (v1),0.8,NEC-D15,False
+96,RMSE suavizado (v1),0.8,NEC-D15,True
+97,RMSE suavizado (v1),0.8,NEC-D15,False
+98,RMSE suavizado (v1),0.8,NEC-D15,True
+99,RMSE suavizado (v1),0.8,NEC-D15,True
+100,RMSE suavizado (v1),0.8,NEC-D15,True
+101,RMSE suavizado (v1),0.8,NEC-D15,False
+102,RMSE suavizado (v1),0.8,NEC-D15,True
+103,RMSE suavizado (v1),0.8,NEC-D15,True
+104,RMSE suavizado (v1),0.8,NEC-D30,True
+105,RMSE suavizado (v1),0.8,NEC-D30,True
+106,RMSE suavizado (v1),0.8,NEC-D30,True
+107,RMSE suavizado (v1),0.8,NEC-D30,True
+108,RMSE suavizado (v1),0.8,NEC-D30,True
+109,RMSE suavizado (v1),0.8,NEC-D30,False
+110,RMSE suavizado (v1),0.8,NEC-D30,True
+111,RMSE suavizado (v1),0.8,NEC-D30,True
+112,RMSE suavizado (v1),0.8,NEC-D30,True
+113,RMSE suavizado (v1),0.8,NEC-D30,True
+114,RMSE suavizado (v1),0.8,NEC-D30,True
+115,RMSE suavizado (v1),0.8,NEC-D30,True
+116,RMSE suavizado (v1),0.8,NEC-D30,True
+0,RMSE suavizado (v1),0.95,CIT-L05,True
+1,RMSE suavizado (v1),0.95,CIT-L05,True
+2,RMSE suavizado (v1),0.95,CIT-L05,True
+3,RMSE suavizado (v1),0.95,CIT-L05,True
+4,RMSE suavizado (v1),0.95,CIT-L05,True
+5,RMSE suavizado (v1),0.95,CIT-L05,True
+6,RMSE suavizado (v1),0.95,CIT-L05,True
+7,RMSE suavizado (v1),0.95,CIT-L05,True
+8,RMSE suavizado (v1),0.95,CIT-L05,True
+9,RMSE suavizado (v1),0.95,CIT-L05,True
+10,RMSE suavizado (v1),0.95,CIT-L05,True
+11,RMSE suavizado (v1),0.95,CIT-L05,True
+12,RMSE suavizado (v1),0.95,CIT-L05,True
+13,RMSE suavizado (v1),0.95,CIT-L15,True
+14,RMSE suavizado (v1),0.95,CIT-L15,True
+15,RMSE suavizado (v1),0.95,CIT-L15,True
+16,RMSE suavizado (v1),0.95,CIT-L15,True
+17,RMSE suavizado (v1),0.95,CIT-L15,True
+18,RMSE suavizado (v1),0.95,CIT-L15,True
+19,RMSE suavizado (v1),0.95,CIT-L15,True
+20,RMSE suavizado (v1),0.95,CIT-L15,True
+21,RMSE suavizado (v1),0.95,CIT-L15,True
+22,RMSE suavizado (v1),0.95,CIT-L15,True
+23,RMSE suavizado (v1),0.95,CIT-L15,True
+24,RMSE suavizado (v1),0.95,CIT-L15,True
+25,RMSE suavizado (v1),0.95,CIT-L15,True
+26,RMSE suavizado (v1),0.95,CIT-L30,True
+27,RMSE suavizado (v1),0.95,CIT-L30,True
+28,RMSE suavizado (v1),0.95,CIT-L30,True
+29,RMSE suavizado (v1),0.95,CIT-L30,True
+30,RMSE suavizado (v1),0.95,CIT-L30,True
+31,RMSE suavizado (v1),0.95,CIT-L30,True
+32,RMSE suavizado (v1),0.95,CIT-L30,True
+33,RMSE suavizado (v1),0.95,CIT-L30,True
+34,RMSE suavizado (v1),0.95,CIT-L30,True
+35,RMSE suavizado (v1),0.95,CIT-L30,True
+36,RMSE suavizado (v1),0.95,CIT-L30,True
+37,RMSE suavizado (v1),0.95,CIT-L30,True
+38,RMSE suavizado (v1),0.95,CIT-L30,True
+39,RMSE suavizado (v1),0.95,FUN-B05,True
+40,RMSE suavizado (v1),0.95,FUN-B05,True
+41,RMSE suavizado (v1),0.95,FUN-B05,True
+42,RMSE suavizado (v1),0.95,FUN-B05,True
+43,RMSE suavizado (v1),0.95,FUN-B05,True
+44,RMSE suavizado (v1),0.95,FUN-B05,True
+45,RMSE suavizado (v1),0.95,FUN-B05,True
+46,RMSE suavizado (v1),0.95,FUN-B05,True
+47,RMSE suavizado (v1),0.95,FUN-B05,True
+48,RMSE suavizado (v1),0.95,FUN-B05,True
+49,RMSE suavizado (v1),0.95,FUN-B05,True
+50,RMSE suavizado (v1),0.95,FUN-B05,True
+51,RMSE suavizado (v1),0.95,FUN-B05,True
+52,RMSE suavizado (v1),0.95,FUN-B15,True
+53,RMSE suavizado (v1),0.95,FUN-B15,True
+54,RMSE suavizado (v1),0.95,FUN-B15,True
+55,RMSE suavizado (v1),0.95,FUN-B15,True
+56,RMSE suavizado (v1),0.95,FUN-B15,True
+57,RMSE suavizado (v1),0.95,FUN-B15,True
+58,RMSE suavizado (v1),0.95,FUN-B15,True
+59,RMSE suavizado (v1),0.95,FUN-B15,True
+60,RMSE suavizado (v1),0.95,FUN-B15,True
+61,RMSE suavizado (v1),0.95,FUN-B15,True
+62,RMSE suavizado (v1),0.95,FUN-B15,True
+63,RMSE suavizado (v1),0.95,FUN-B15,True
+64,RMSE suavizado (v1),0.95,FUN-B15,True
+65,RMSE suavizado (v1),0.95,FUN-B30,True
+66,RMSE suavizado (v1),0.95,FUN-B30,True
+67,RMSE suavizado (v1),0.95,FUN-B30,True
+68,RMSE suavizado (v1),0.95,FUN-B30,True
+69,RMSE suavizado (v1),0.95,FUN-B30,True
+70,RMSE suavizado (v1),0.95,FUN-B30,True
+71,RMSE suavizado (v1),0.95,FUN-B30,True
+72,RMSE suavizado (v1),0.95,FUN-B30,True
+73,RMSE suavizado (v1),0.95,FUN-B30,True
+74,RMSE suavizado (v1),0.95,FUN-B30,True
+75,RMSE suavizado (v1),0.95,FUN-B30,True
+76,RMSE suavizado (v1),0.95,FUN-B30,True
+77,RMSE suavizado (v1),0.95,FUN-B30,True
+78,RMSE suavizado (v1),0.95,NEC-D05,True
+79,RMSE suavizado (v1),0.95,NEC-D05,True
+80,RMSE suavizado (v1),0.95,NEC-D05,True
+81,RMSE suavizado (v1),0.95,NEC-D05,True
+82,RMSE suavizado (v1),0.95,NEC-D05,True
+83,RMSE suavizado (v1),0.95,NEC-D05,True
+84,RMSE suavizado (v1),0.95,NEC-D05,True
+85,RMSE suavizado (v1),0.95,NEC-D05,True
+86,RMSE suavizado (v1),0.95,NEC-D05,True
+87,RMSE suavizado (v1),0.95,NEC-D05,True
+88,RMSE suavizado (v1),0.95,NEC-D05,True
+89,RMSE suavizado (v1),0.95,NEC-D05,True
+90,RMSE suavizado (v1),0.95,NEC-D05,True
+91,RMSE suavizado (v1),0.95,NEC-D15,True
+92,RMSE suavizado (v1),0.95,NEC-D15,True
+93,RMSE suavizado (v1),0.95,NEC-D15,True
+94,RMSE suavizado (v1),0.95,NEC-D15,True
+95,RMSE suavizado (v1),0.95,NEC-D15,True
+96,RMSE suavizado (v1),0.95,NEC-D15,True
+97,RMSE suavizado (v1),0.95,NEC-D15,True
+98,RMSE suavizado (v1),0.95,NEC-D15,True
+99,RMSE suavizado (v1),0.95,NEC-D15,True
+100,RMSE suavizado (v1),0.95,NEC-D15,True
+101,RMSE suavizado (v1),0.95,NEC-D15,False
+102,RMSE suavizado (v1),0.95,NEC-D15,True
+103,RMSE suavizado (v1),0.95,NEC-D15,True
+104,RMSE suavizado (v1),0.95,NEC-D30,True
+105,RMSE suavizado (v1),0.95,NEC-D30,True
+106,RMSE suavizado (v1),0.95,NEC-D30,True
+107,RMSE suavizado (v1),0.95,NEC-D30,True
+108,RMSE suavizado (v1),0.95,NEC-D30,True
+109,RMSE suavizado (v1),0.95,NEC-D30,True
+110,RMSE suavizado (v1),0.95,NEC-D30,True
+111,RMSE suavizado (v1),0.95,NEC-D30,True
+112,RMSE suavizado (v1),0.95,NEC-D30,True
+113,RMSE suavizado (v1),0.95,NEC-D30,True
+114,RMSE suavizado (v1),0.95,NEC-D30,True
+115,RMSE suavizado (v1),0.95,NEC-D30,True
+116,RMSE suavizado (v1),0.95,NEC-D30,True
+0,DE por h,0.8,CIT-L05,True
+1,DE por h,0.8,CIT-L05,True
+2,DE por h,0.8,CIT-L05,True
+3,DE por h,0.8,CIT-L05,True
+4,DE por h,0.8,CIT-L05,True
+5,DE por h,0.8,CIT-L05,True
+6,DE por h,0.8,CIT-L05,True
+7,DE por h,0.8,CIT-L05,True
+8,DE por h,0.8,CIT-L05,True
+9,DE por h,0.8,CIT-L05,True
+10,DE por h,0.8,CIT-L05,True
+11,DE por h,0.8,CIT-L05,True
+12,DE por h,0.8,CIT-L05,True
+13,DE por h,0.8,CIT-L15,True
+14,DE por h,0.8,CIT-L15,True
+15,DE por h,0.8,CIT-L15,True
+16,DE por h,0.8,CIT-L15,False
+17,DE por h,0.8,CIT-L15,True
+18,DE por h,0.8,CIT-L15,True
+19,DE por h,0.8,CIT-L15,False
+20,DE por h,0.8,CIT-L15,True
+21,DE por h,0.8,CIT-L15,False
+22,DE por h,0.8,CIT-L15,True
+23,DE por h,0.8,CIT-L15,True
+24,DE por h,0.8,CIT-L15,True
+25,DE por h,0.8,CIT-L15,False
+26,DE por h,0.8,CIT-L30,True
+27,DE por h,0.8,CIT-L30,True
+28,DE por h,0.8,CIT-L30,True
+29,DE por h,0.8,CIT-L30,True
+30,DE por h,0.8,CIT-L30,True
+31,DE por h,0.8,CIT-L30,True
+32,DE por h,0.8,CIT-L30,True
+33,DE por h,0.8,CIT-L30,True
+34,DE por h,0.8,CIT-L30,False
+35,DE por h,0.8,CIT-L30,True
+36,DE por h,0.8,CIT-L30,True
+37,DE por h,0.8,CIT-L30,True
+38,DE por h,0.8,CIT-L30,True
+39,DE por h,0.8,FUN-B05,True
+40,DE por h,0.8,FUN-B05,True
+41,DE por h,0.8,FUN-B05,True
+42,DE por h,0.8,FUN-B05,True
+43,DE por h,0.8,FUN-B05,True
+44,DE por h,0.8,FUN-B05,True
+45,DE por h,0.8,FUN-B05,False
+46,DE por h,0.8,FUN-B05,True
+47,DE por h,0.8,FUN-B05,False
+48,DE por h,0.8,FUN-B05,True
+49,DE por h,0.8,FUN-B05,True
+50,DE por h,0.8,FUN-B05,False
+51,DE por h,0.8,FUN-B05,True
+52,DE por h,0.8,FUN-B15,True
+53,DE por h,0.8,FUN-B15,False
+54,DE por h,0.8,FUN-B15,True
+55,DE por h,0.8,FUN-B15,True
+56,DE por h,0.8,FUN-B15,True
+57,DE por h,0.8,FUN-B15,True
+58,DE por h,0.8,FUN-B15,True
+59,DE por h,0.8,FUN-B15,True
+60,DE por h,0.8,FUN-B15,False
+61,DE por h,0.8,FUN-B15,True
+62,DE por h,0.8,FUN-B15,True
+63,DE por h,0.8,FUN-B15,False
+64,DE por h,0.8,FUN-B15,True
+65,DE por h,0.8,FUN-B30,True
+66,DE por h,0.8,FUN-B30,True
+67,DE por h,0.8,FUN-B30,True
+68,DE por h,0.8,FUN-B30,True
+69,DE por h,0.8,FUN-B30,True
+70,DE por h,0.8,FUN-B30,True
+71,DE por h,0.8,FUN-B30,True
+72,DE por h,0.8,FUN-B30,True
+73,DE por h,0.8,FUN-B30,True
+74,DE por h,0.8,FUN-B30,True
+75,DE por h,0.8,FUN-B30,True
+76,DE por h,0.8,FUN-B30,True
+77,DE por h,0.8,FUN-B30,True
+78,DE por h,0.8,NEC-D05,True
+79,DE por h,0.8,NEC-D05,False
+80,DE por h,0.8,NEC-D05,True
+81,DE por h,0.8,NEC-D05,True
+82,DE por h,0.8,NEC-D05,True
+83,DE por h,0.8,NEC-D05,True
+84,DE por h,0.8,NEC-D05,True
+85,DE por h,0.8,NEC-D05,False
+86,DE por h,0.8,NEC-D05,True
+87,DE por h,0.8,NEC-D05,True
+88,DE por h,0.8,NEC-D05,False
+89,DE por h,0.8,NEC-D05,True
+90,DE por h,0.8,NEC-D05,True
+91,DE por h,0.8,NEC-D15,True
+92,DE por h,0.8,NEC-D15,True
+93,DE por h,0.8,NEC-D15,True
+94,DE por h,0.8,NEC-D15,False
+95,DE por h,0.8,NEC-D15,False
+96,DE por h,0.8,NEC-D15,True
+97,DE por h,0.8,NEC-D15,False
+98,DE por h,0.8,NEC-D15,False
+99,DE por h,0.8,NEC-D15,True
+100,DE por h,0.8,NEC-D15,True
+101,DE por h,0.8,NEC-D15,False
+102,DE por h,0.8,NEC-D15,True
+103,DE por h,0.8,NEC-D15,True
+104,DE por h,0.8,NEC-D30,True
+105,DE por h,0.8,NEC-D30,True
+106,DE por h,0.8,NEC-D30,True
+107,DE por h,0.8,NEC-D30,True
+108,DE por h,0.8,NEC-D30,True
+109,DE por h,0.8,NEC-D30,False
+110,DE por h,0.8,NEC-D30,True
+111,DE por h,0.8,NEC-D30,True
+112,DE por h,0.8,NEC-D30,True
+113,DE por h,0.8,NEC-D30,False
+114,DE por h,0.8,NEC-D30,True
+115,DE por h,0.8,NEC-D30,True
+116,DE por h,0.8,NEC-D30,True
+0,DE por h,0.95,CIT-L05,True
+1,DE por h,0.95,CIT-L05,True
+2,DE por h,0.95,CIT-L05,True
+3,DE por h,0.95,CIT-L05,True
+4,DE por h,0.95,CIT-L05,True
+5,DE por h,0.95,CIT-L05,True
+6,DE por h,0.95,CIT-L05,True
+7,DE por h,0.95,CIT-L05,True
+8,DE por h,0.95,CIT-L05,True
+9,DE por h,0.95,CIT-L05,True
+10,DE por h,0.95,CIT-L05,True
+11,DE por h,0.95,CIT-L05,True
+12,DE por h,0.95,CIT-L05,True
+13,DE por h,0.95,CIT-L15,True
+14,DE por h,0.95,CIT-L15,True
+15,DE por h,0.95,CIT-L15,True
+16,DE por h,0.95,CIT-L15,True
+17,DE por h,0.95,CIT-L15,True
+18,DE por h,0.95,CIT-L15,True
+19,DE por h,0.95,CIT-L15,True
+20,DE por h,0.95,CIT-L15,True
+21,DE por h,0.95,CIT-L15,False
+22,DE por h,0.95,CIT-L15,True
+23,DE por h,0.95,CIT-L15,True
+24,DE por h,0.95,CIT-L15,True
+25,DE por h,0.95,CIT-L15,False
+26,DE por h,0.95,CIT-L30,True
+27,DE por h,0.95,CIT-L30,True
+28,DE por h,0.95,CIT-L30,True
+29,DE por h,0.95,CIT-L30,True
+30,DE por h,0.95,CIT-L30,True
+31,DE por h,0.95,CIT-L30,True
+32,DE por h,0.95,CIT-L30,True
+33,DE por h,0.95,CIT-L30,True
+34,DE por h,0.95,CIT-L30,True
+35,DE por h,0.95,CIT-L30,True
+36,DE por h,0.95,CIT-L30,True
+37,DE por h,0.95,CIT-L30,True
+38,DE por h,0.95,CIT-L30,True
+39,DE por h,0.95,FUN-B05,True
+40,DE por h,0.95,FUN-B05,True
+41,DE por h,0.95,FUN-B05,True
+42,DE por h,0.95,FUN-B05,True
+43,DE por h,0.95,FUN-B05,True
+44,DE por h,0.95,FUN-B05,True
+45,DE por h,0.95,FUN-B05,True
+46,DE por h,0.95,FUN-B05,True
+47,DE por h,0.95,FUN-B05,False
+48,DE por h,0.95,FUN-B05,True
+49,DE por h,0.95,FUN-B05,True
+50,DE por h,0.95,FUN-B05,True
+51,DE por h,0.95,FUN-B05,True
+52,DE por h,0.95,FUN-B15,True
+53,DE por h,0.95,FUN-B15,True
+54,DE por h,0.95,FUN-B15,True
+55,DE por h,0.95,FUN-B15,True
+56,DE por h,0.95,FUN-B15,True
+57,DE por h,0.95,FUN-B15,True
+58,DE por h,0.95,FUN-B15,True
+59,DE por h,0.95,FUN-B15,True
+60,DE por h,0.95,FUN-B15,True
+61,DE por h,0.95,FUN-B15,True
+62,DE por h,0.95,FUN-B15,True
+63,DE por h,0.95,FUN-B15,False
+64,DE por h,0.95,FUN-B15,True
+65,DE por h,0.95,FUN-B30,True
+66,DE por h,0.95,FUN-B30,True
+67,DE por h,0.95,FUN-B30,True
+68,DE por h,0.95,FUN-B30,True
+69,DE por h,0.95,FUN-B30,True
+70,DE por h,0.95,FUN-B30,True
+71,DE por h,0.95,FUN-B30,True
+72,DE por h,0.95,FUN-B30,True
+73,DE por h,0.95,FUN-B30,True
+74,DE por h,0.95,FUN-B30,True
+75,DE por h,0.95,FUN-B30,True
+76,DE por h,0.95,FUN-B30,True
+77,DE por h,0.95,FUN-B30,True
+78,DE por h,0.95,NEC-D05,True
+79,DE por h,0.95,NEC-D05,False
+80,DE por h,0.95,NEC-D05,True
+81,DE por h,0.95,NEC-D05,True
+82,DE por h,0.95,NEC-D05,True
+83,DE por h,0.95,NEC-D05,True
+84,DE por h,0.95,NEC-D05,True
+85,DE por h,0.95,NEC-D05,False
+86,DE por h,0.95,NEC-D05,True
+87,DE por h,0.95,NEC-D05,True
+88,DE por h,0.95,NEC-D05,True
+89,DE por h,0.95,NEC-D05,True
+90,DE por h,0.95,NEC-D05,True
+91,DE por h,0.95,NEC-D15,True
+92,DE por h,0.95,NEC-D15,True
+93,DE por h,0.95,NEC-D15,True
+94,DE por h,0.95,NEC-D15,True
+95,DE por h,0.95,NEC-D15,False
+96,DE por h,0.95,NEC-D15,True
+97,DE por h,0.95,NEC-D15,True
+98,DE por h,0.95,NEC-D15,True
+99,DE por h,0.95,NEC-D15,True
+100,DE por h,0.95,NEC-D15,True
+101,DE por h,0.95,NEC-D15,False
+102,DE por h,0.95,NEC-D15,True
+103,DE por h,0.95,NEC-D15,True
+104,DE por h,0.95,NEC-D30,True
+105,DE por h,0.95,NEC-D30,True
+106,DE por h,0.95,NEC-D30,True
+107,DE por h,0.95,NEC-D30,True
+108,DE por h,0.95,NEC-D30,True
+109,DE por h,0.95,NEC-D30,False
+110,DE por h,0.95,NEC-D30,True
+111,DE por h,0.95,NEC-D30,True
+112,DE por h,0.95,NEC-D30,True
+113,DE por h,0.95,NEC-D30,True
+114,DE por h,0.95,NEC-D30,True
+115,DE por h,0.95,NEC-D30,True
+116,DE por h,0.95,NEC-D30,True
+0,DE por h + sesgo,0.8,CIT-L05,True
+1,DE por h + sesgo,0.8,CIT-L05,True
+2,DE por h + sesgo,0.8,CIT-L05,True
+3,DE por h + sesgo,0.8,CIT-L05,True
+4,DE por h + sesgo,0.8,CIT-L05,True
+5,DE por h + sesgo,0.8,CIT-L05,True
+6,DE por h + sesgo,0.8,CIT-L05,True
+7,DE por h + sesgo,0.8,CIT-L05,True
+8,DE por h + sesgo,0.8,CIT-L05,True
+9,DE por h + sesgo,0.8,CIT-L05,True
+10,DE por h + sesgo,0.8,CIT-L05,True
+11,DE por h + sesgo,0.8,CIT-L05,True
+12,DE por h + sesgo,0.8,CIT-L05,False
+13,DE por h + sesgo,0.8,CIT-L15,True
+14,DE por h + sesgo,0.8,CIT-L15,True
+15,DE por h + sesgo,0.8,CIT-L15,True
+16,DE por h + sesgo,0.8,CIT-L15,True
+17,DE por h + sesgo,0.8,CIT-L15,True
+18,DE por h + sesgo,0.8,CIT-L15,False
+19,DE por h + sesgo,0.8,CIT-L15,True
+20,DE por h + sesgo,0.8,CIT-L15,True
+21,DE por h + sesgo,0.8,CIT-L15,False
+22,DE por h + sesgo,0.8,CIT-L15,True
+23,DE por h + sesgo,0.8,CIT-L15,True
+24,DE por h + sesgo,0.8,CIT-L15,True
+25,DE por h + sesgo,0.8,CIT-L15,False
+26,DE por h + sesgo,0.8,CIT-L30,True
+27,DE por h + sesgo,0.8,CIT-L30,True
+28,DE por h + sesgo,0.8,CIT-L30,True
+29,DE por h + sesgo,0.8,CIT-L30,True
+30,DE por h + sesgo,0.8,CIT-L30,True
+31,DE por h + sesgo,0.8,CIT-L30,True
+32,DE por h + sesgo,0.8,CIT-L30,False
+33,DE por h + sesgo,0.8,CIT-L30,True
+34,DE por h + sesgo,0.8,CIT-L30,False
+35,DE por h + sesgo,0.8,CIT-L30,True
+36,DE por h + sesgo,0.8,CIT-L30,True
+37,DE por h + sesgo,0.8,CIT-L30,True
+38,DE por h + sesgo,0.8,CIT-L30,False
+39,DE por h + sesgo,0.8,FUN-B05,True
+40,DE por h + sesgo,0.8,FUN-B05,True
+41,DE por h + sesgo,0.8,FUN-B05,True
+42,DE por h + sesgo,0.8,FUN-B05,False
+43,DE por h + sesgo,0.8,FUN-B05,True
+44,DE por h + sesgo,0.8,FUN-B05,True
+45,DE por h + sesgo,0.8,FUN-B05,False
+46,DE por h + sesgo,0.8,FUN-B05,False
+47,DE por h + sesgo,0.8,FUN-B05,False
+48,DE por h + sesgo,0.8,FUN-B05,True
+49,DE por h + sesgo,0.8,FUN-B05,False
+50,DE por h + sesgo,0.8,FUN-B05,False
+51,DE por h + sesgo,0.8,FUN-B05,True
+52,DE por h + sesgo,0.8,FUN-B15,True
+53,DE por h + sesgo,0.8,FUN-B15,False
+54,DE por h + sesgo,0.8,FUN-B15,True
+55,DE por h + sesgo,0.8,FUN-B15,True
+56,DE por h + sesgo,0.8,FUN-B15,True
+57,DE por h + sesgo,0.8,FUN-B15,True
+58,DE por h + sesgo,0.8,FUN-B15,True
+59,DE por h + sesgo,0.8,FUN-B15,False
+60,DE por h + sesgo,0.8,FUN-B15,False
+61,DE por h + sesgo,0.8,FUN-B15,False
+62,DE por h + sesgo,0.8,FUN-B15,True
+63,DE por h + sesgo,0.8,FUN-B15,False
+64,DE por h + sesgo,0.8,FUN-B15,False
+65,DE por h + sesgo,0.8,FUN-B30,True
+66,DE por h + sesgo,0.8,FUN-B30,True
+67,DE por h + sesgo,0.8,FUN-B30,True
+68,DE por h + sesgo,0.8,FUN-B30,True
+69,DE por h + sesgo,0.8,FUN-B30,True
+70,DE por h + sesgo,0.8,FUN-B30,True
+71,DE por h + sesgo,0.8,FUN-B30,True
+72,DE por h + sesgo,0.8,FUN-B30,True
+73,DE por h + sesgo,0.8,FUN-B30,True
+74,DE por h + sesgo,0.8,FUN-B30,True
+75,DE por h + sesgo,0.8,FUN-B30,True
+76,DE por h + sesgo,0.8,FUN-B30,True
+77,DE por h + sesgo,0.8,FUN-B30,True
+78,DE por h + sesgo,0.8,NEC-D05,True
+79,DE por h + sesgo,0.8,NEC-D05,False
+80,DE por h + sesgo,0.8,NEC-D05,True
+81,DE por h + sesgo,0.8,NEC-D05,False
+82,DE por h + sesgo,0.8,NEC-D05,True
+83,DE por h + sesgo,0.8,NEC-D05,True
+84,DE por h + sesgo,0.8,NEC-D05,True
+85,DE por h + sesgo,0.8,NEC-D05,False
+86,DE por h + sesgo,0.8,NEC-D05,True
+87,DE por h + sesgo,0.8,NEC-D05,True
+88,DE por h + sesgo,0.8,NEC-D05,False
+89,DE por h + sesgo,0.8,NEC-D05,True
+90,DE por h + sesgo,0.8,NEC-D05,True
+91,DE por h + sesgo,0.8,NEC-D15,True
+92,DE por h + sesgo,0.8,NEC-D15,True
+93,DE por h + sesgo,0.8,NEC-D15,False
+94,DE por h + sesgo,0.8,NEC-D15,False
+95,DE por h + sesgo,0.8,NEC-D15,False
+96,DE por h + sesgo,0.8,NEC-D15,True
+97,DE por h + sesgo,0.8,NEC-D15,False
+98,DE por h + sesgo,0.8,NEC-D15,False
+99,DE por h + sesgo,0.8,NEC-D15,True
+100,DE por h + sesgo,0.8,NEC-D15,True
+101,DE por h + sesgo,0.8,NEC-D15,False
+102,DE por h + sesgo,0.8,NEC-D15,True
+103,DE por h + sesgo,0.8,NEC-D15,True
+104,DE por h + sesgo,0.8,NEC-D30,True
+105,DE por h + sesgo,0.8,NEC-D30,True
+106,DE por h + sesgo,0.8,NEC-D30,True
+107,DE por h + sesgo,0.8,NEC-D30,False
+108,DE por h + sesgo,0.8,NEC-D30,True
+109,DE por h + sesgo,0.8,NEC-D30,False
+110,DE por h + sesgo,0.8,NEC-D30,True
+111,DE por h + sesgo,0.8,NEC-D30,True
+112,DE por h + sesgo,0.8,NEC-D30,True
+113,DE por h + sesgo,0.8,NEC-D30,True
+114,DE por h + sesgo,0.8,NEC-D30,True
+115,DE por h + sesgo,0.8,NEC-D30,True
+116,DE por h + sesgo,0.8,NEC-D30,True
+0,DE por h + sesgo,0.95,CIT-L05,True
+1,DE por h + sesgo,0.95,CIT-L05,True
+2,DE por h + sesgo,0.95,CIT-L05,True
+3,DE por h + sesgo,0.95,CIT-L05,True
+4,DE por h + sesgo,0.95,CIT-L05,True
+5,DE por h + sesgo,0.95,CIT-L05,True
+6,DE por h + sesgo,0.95,CIT-L05,True
+7,DE por h + sesgo,0.95,CIT-L05,True
+8,DE por h + sesgo,0.95,CIT-L05,True
+9,DE por h + sesgo,0.95,CIT-L05,True
+10,DE por h + sesgo,0.95,CIT-L05,True
+11,DE por h + sesgo,0.95,CIT-L05,True
+12,DE por h + sesgo,0.95,CIT-L05,True
+13,DE por h + sesgo,0.95,CIT-L15,True
+14,DE por h + sesgo,0.95,CIT-L15,True
+15,DE por h + sesgo,0.95,CIT-L15,True
+16,DE por h + sesgo,0.95,CIT-L15,True
+17,DE por h + sesgo,0.95,CIT-L15,True
+18,DE por h + sesgo,0.95,CIT-L15,True
+19,DE por h + sesgo,0.95,CIT-L15,True
+20,DE por h + sesgo,0.95,CIT-L15,True
+21,DE por h + sesgo,0.95,CIT-L15,False
+22,DE por h + sesgo,0.95,CIT-L15,True
+23,DE por h + sesgo,0.95,CIT-L15,True
+24,DE por h + sesgo,0.95,CIT-L15,True
+25,DE por h + sesgo,0.95,CIT-L15,True
+26,DE por h + sesgo,0.95,CIT-L30,True
+27,DE por h + sesgo,0.95,CIT-L30,True
+28,DE por h + sesgo,0.95,CIT-L30,True
+29,DE por h + sesgo,0.95,CIT-L30,True
+30,DE por h + sesgo,0.95,CIT-L30,True
+31,DE por h + sesgo,0.95,CIT-L30,True
+32,DE por h + sesgo,0.95,CIT-L30,True
+33,DE por h + sesgo,0.95,CIT-L30,True
+34,DE por h + sesgo,0.95,CIT-L30,True
+35,DE por h + sesgo,0.95,CIT-L30,True
+36,DE por h + sesgo,0.95,CIT-L30,True
+37,DE por h + sesgo,0.95,CIT-L30,True
+38,DE por h + sesgo,0.95,CIT-L30,True
+39,DE por h + sesgo,0.95,FUN-B05,True
+40,DE por h + sesgo,0.95,FUN-B05,True
+41,DE por h + sesgo,0.95,FUN-B05,True
+42,DE por h + sesgo,0.95,FUN-B05,True
+43,DE por h + sesgo,0.95,FUN-B05,True
+44,DE por h + sesgo,0.95,FUN-B05,True
+45,DE por h + sesgo,0.95,FUN-B05,False
+46,DE por h + sesgo,0.95,FUN-B05,True
+47,DE por h + sesgo,0.95,FUN-B05,False
+48,DE por h + sesgo,0.95,FUN-B05,True
+49,DE por h + sesgo,0.95,FUN-B05,True
+50,DE por h + sesgo,0.95,FUN-B05,False
+51,DE por h + sesgo,0.95,FUN-B05,True
+52,DE por h + sesgo,0.95,FUN-B15,True
+53,DE por h + sesgo,0.95,FUN-B15,True
+54,DE por h + sesgo,0.95,FUN-B15,True
+55,DE por h + sesgo,0.95,FUN-B15,True
+56,DE por h + sesgo,0.95,FUN-B15,True
+57,DE por h + sesgo,0.95,FUN-B15,True
+58,DE por h + sesgo,0.95,FUN-B15,True
+59,DE por h + sesgo,0.95,FUN-B15,True
+60,DE por h + sesgo,0.95,FUN-B15,True
+61,DE por h + sesgo,0.95,FUN-B15,True
+62,DE por h + sesgo,0.95,FUN-B15,True
+63,DE por h + sesgo,0.95,FUN-B15,False
+64,DE por h + sesgo,0.95,FUN-B15,True
+65,DE por h + sesgo,0.95,FUN-B30,True
+66,DE por h + sesgo,0.95,FUN-B30,True
+67,DE por h + sesgo,0.95,FUN-B30,True
+68,DE por h + sesgo,0.95,FUN-B30,True
+69,DE por h + sesgo,0.95,FUN-B30,True
+70,DE por h + sesgo,0.95,FUN-B30,True
+71,DE por h + sesgo,0.95,FUN-B30,True
+72,DE por h + sesgo,0.95,FUN-B30,True
+73,DE por h + sesgo,0.95,FUN-B30,True
+74,DE por h + sesgo,0.95,FUN-B30,True
+75,DE por h + sesgo,0.95,FUN-B30,True
+76,DE por h + sesgo,0.95,FUN-B30,True
+77,DE por h + sesgo,0.95,FUN-B30,True
+78,DE por h + sesgo,0.95,NEC-D05,True
+79,DE por h + sesgo,0.95,NEC-D05,False
+80,DE por h + sesgo,0.95,NEC-D05,True
+81,DE por h + sesgo,0.95,NEC-D05,True
+82,DE por h + sesgo,0.95,NEC-D05,True
+83,DE por h + sesgo,0.95,NEC-D05,True
+84,DE por h + sesgo,0.95,NEC-D05,True
+85,DE por h + sesgo,0.95,NEC-D05,False
+86,DE por h + sesgo,0.95,NEC-D05,True
+87,DE por h + sesgo,0.95,NEC-D05,True
+88,DE por h + sesgo,0.95,NEC-D05,True
+89,DE por h + sesgo,0.95,NEC-D05,True
+90,DE por h + sesgo,0.95,NEC-D05,True
+91,DE por h + sesgo,0.95,NEC-D15,True
+92,DE por h + sesgo,0.95,NEC-D15,True
+93,DE por h + sesgo,0.95,NEC-D15,True
+94,DE por h + sesgo,0.95,NEC-D15,True
+95,DE por h + sesgo,0.95,NEC-D15,False
+96,DE por h + sesgo,0.95,NEC-D15,True
+97,DE por h + sesgo,0.95,NEC-D15,True
+98,DE por h + sesgo,0.95,NEC-D15,True
+99,DE por h + sesgo,0.95,NEC-D15,True
+100,DE por h + sesgo,0.95,NEC-D15,True
+101,DE por h + sesgo,0.95,NEC-D15,False
+102,DE por h + sesgo,0.95,NEC-D15,True
+103,DE por h + sesgo,0.95,NEC-D15,True
+104,DE por h + sesgo,0.95,NEC-D30,True
+105,DE por h + sesgo,0.95,NEC-D30,True
+106,DE por h + sesgo,0.95,NEC-D30,True
+107,DE por h + sesgo,0.95,NEC-D30,True
+108,DE por h + sesgo,0.95,NEC-D30,True
+109,DE por h + sesgo,0.95,NEC-D30,False
+110,DE por h + sesgo,0.95,NEC-D30,True
+111,DE por h + sesgo,0.95,NEC-D30,True
+112,DE por h + sesgo,0.95,NEC-D30,True
+113,DE por h + sesgo,0.95,NEC-D30,True
+114,DE por h + sesgo,0.95,NEC-D30,True
+115,DE por h + sesgo,0.95,NEC-D30,True
+116,DE por h + sesgo,0.95,NEC-D30,True
+0,Cuantiles empíricos,0.8,CIT-L05,False
+1,Cuantiles empíricos,0.8,CIT-L05,True
+2,Cuantiles empíricos,0.8,CIT-L05,True
+3,Cuantiles empíricos,0.8,CIT-L05,True
+4,Cuantiles empíricos,0.8,CIT-L05,True
+5,Cuantiles empíricos,0.8,CIT-L05,True
+6,Cuantiles empíricos,0.8,CIT-L05,True
+7,Cuantiles empíricos,0.8,CIT-L05,True
+8,Cuantiles empíricos,0.8,CIT-L05,True
+9,Cuantiles empíricos,0.8,CIT-L05,False
+10,Cuantiles empíricos,0.8,CIT-L05,True
+11,Cuantiles empíricos,0.8,CIT-L05,True
+12,Cuantiles empíricos,0.8,CIT-L05,False
+13,Cuantiles empíricos,0.8,CIT-L15,True
+14,Cuantiles empíricos,0.8,CIT-L15,True
+15,Cuantiles empíricos,0.8,CIT-L15,True
+16,Cuantiles empíricos,0.8,CIT-L15,True
+17,Cuantiles empíricos,0.8,CIT-L15,True
+18,Cuantiles empíricos,0.8,CIT-L15,False
+19,Cuantiles empíricos,0.8,CIT-L15,True
+20,Cuantiles empíricos,0.8,CIT-L15,True
+21,Cuantiles empíricos,0.8,CIT-L15,False
+22,Cuantiles empíricos,0.8,CIT-L15,True
+23,Cuantiles empíricos,0.8,CIT-L15,True
+24,Cuantiles empíricos,0.8,CIT-L15,True
+25,Cuantiles empíricos,0.8,CIT-L15,True
+26,Cuantiles empíricos,0.8,CIT-L30,False
+27,Cuantiles empíricos,0.8,CIT-L30,True
+28,Cuantiles empíricos,0.8,CIT-L30,True
+29,Cuantiles empíricos,0.8,CIT-L30,True
+30,Cuantiles empíricos,0.8,CIT-L30,True
+31,Cuantiles empíricos,0.8,CIT-L30,True
+32,Cuantiles empíricos,0.8,CIT-L30,False
+33,Cuantiles empíricos,0.8,CIT-L30,True
+34,Cuantiles empíricos,0.8,CIT-L30,True
+35,Cuantiles empíricos,0.8,CIT-L30,True
+36,Cuantiles empíricos,0.8,CIT-L30,True
+37,Cuantiles empíricos,0.8,CIT-L30,True
+38,Cuantiles empíricos,0.8,CIT-L30,True
+39,Cuantiles empíricos,0.8,FUN-B05,True
+40,Cuantiles empíricos,0.8,FUN-B05,True
+41,Cuantiles empíricos,0.8,FUN-B05,True
+42,Cuantiles empíricos,0.8,FUN-B05,False
+43,Cuantiles empíricos,0.8,FUN-B05,True
+44,Cuantiles empíricos,0.8,FUN-B05,True
+45,Cuantiles empíricos,0.8,FUN-B05,False
+46,Cuantiles empíricos,0.8,FUN-B05,False
+47,Cuantiles empíricos,0.8,FUN-B05,False
+48,Cuantiles empíricos,0.8,FUN-B05,True
+49,Cuantiles empíricos,0.8,FUN-B05,False
+50,Cuantiles empíricos,0.8,FUN-B05,False
+51,Cuantiles empíricos,0.8,FUN-B05,True
+52,Cuantiles empíricos,0.8,FUN-B15,True
+53,Cuantiles empíricos,0.8,FUN-B15,False
+54,Cuantiles empíricos,0.8,FUN-B15,False
+55,Cuantiles empíricos,0.8,FUN-B15,True
+56,Cuantiles empíricos,0.8,FUN-B15,True
+57,Cuantiles empíricos,0.8,FUN-B15,False
+58,Cuantiles empíricos,0.8,FUN-B15,True
+59,Cuantiles empíricos,0.8,FUN-B15,False
+60,Cuantiles empíricos,0.8,FUN-B15,False
+61,Cuantiles empíricos,0.8,FUN-B15,False
+62,Cuantiles empíricos,0.8,FUN-B15,False
+63,Cuantiles empíricos,0.8,FUN-B15,False
+64,Cuantiles empíricos,0.8,FUN-B15,False
+65,Cuantiles empíricos,0.8,FUN-B30,True
+66,Cuantiles empíricos,0.8,FUN-B30,True
+67,Cuantiles empíricos,0.8,FUN-B30,True
+68,Cuantiles empíricos,0.8,FUN-B30,True
+69,Cuantiles empíricos,0.8,FUN-B30,True
+70,Cuantiles empíricos,0.8,FUN-B30,True
+71,Cuantiles empíricos,0.8,FUN-B30,True
+72,Cuantiles empíricos,0.8,FUN-B30,True
+73,Cuantiles empíricos,0.8,FUN-B30,False
+74,Cuantiles empíricos,0.8,FUN-B30,True
+75,Cuantiles empíricos,0.8,FUN-B30,False
+76,Cuantiles empíricos,0.8,FUN-B30,True
+77,Cuantiles empíricos,0.8,FUN-B30,True
+78,Cuantiles empíricos,0.8,NEC-D05,True
+79,Cuantiles empíricos,0.8,NEC-D05,True
+80,Cuantiles empíricos,0.8,NEC-D05,True
+81,Cuantiles empíricos,0.8,NEC-D05,True
+82,Cuantiles empíricos,0.8,NEC-D05,True
+83,Cuantiles empíricos,0.8,NEC-D05,True
+84,Cuantiles empíricos,0.8,NEC-D05,True
+85,Cuantiles empíricos,0.8,NEC-D05,False
+86,Cuantiles empíricos,0.8,NEC-D05,True
+87,Cuantiles empíricos,0.8,NEC-D05,True
+88,Cuantiles empíricos,0.8,NEC-D05,True
+89,Cuantiles empíricos,0.8,NEC-D05,True
+90,Cuantiles empíricos,0.8,NEC-D05,True
+91,Cuantiles empíricos,0.8,NEC-D15,True
+92,Cuantiles empíricos,0.8,NEC-D15,True
+93,Cuantiles empíricos,0.8,NEC-D15,False
+94,Cuantiles empíricos,0.8,NEC-D15,False
+95,Cuantiles empíricos,0.8,NEC-D15,True
+96,Cuantiles empíricos,0.8,NEC-D15,True
+97,Cuantiles empíricos,0.8,NEC-D15,False
+98,Cuantiles empíricos,0.8,NEC-D15,False
+99,Cuantiles empíricos,0.8,NEC-D15,True
+100,Cuantiles empíricos,0.8,NEC-D15,True
+101,Cuantiles empíricos,0.8,NEC-D15,False
+102,Cuantiles empíricos,0.8,NEC-D15,True
+103,Cuantiles empíricos,0.8,NEC-D15,True
+104,Cuantiles empíricos,0.8,NEC-D30,True
+105,Cuantiles empíricos,0.8,NEC-D30,True
+106,Cuantiles empíricos,0.8,NEC-D30,True
+107,Cuantiles empíricos,0.8,NEC-D30,True
+108,Cuantiles empíricos,0.8,NEC-D30,True
+109,Cuantiles empíricos,0.8,NEC-D30,False
+110,Cuantiles empíricos,0.8,NEC-D30,True
+111,Cuantiles empíricos,0.8,NEC-D30,True
+112,Cuantiles empíricos,0.8,NEC-D30,True
+113,Cuantiles empíricos,0.8,NEC-D30,True
+114,Cuantiles empíricos,0.8,NEC-D30,True
+115,Cuantiles empíricos,0.8,NEC-D30,True
+116,Cuantiles empíricos,0.8,NEC-D30,True
+0,Cuantiles empíricos,0.95,CIT-L05,True
+1,Cuantiles empíricos,0.95,CIT-L05,True
+2,Cuantiles empíricos,0.95,CIT-L05,True
+3,Cuantiles empíricos,0.95,CIT-L05,True
+4,Cuantiles empíricos,0.95,CIT-L05,True
+5,Cuantiles empíricos,0.95,CIT-L05,True
+6,Cuantiles empíricos,0.95,CIT-L05,True
+7,Cuantiles empíricos,0.95,CIT-L05,True
+8,Cuantiles empíricos,0.95,CIT-L05,True
+9,Cuantiles empíricos,0.95,CIT-L05,True
+10,Cuantiles empíricos,0.95,CIT-L05,True
+11,Cuantiles empíricos,0.95,CIT-L05,True
+12,Cuantiles empíricos,0.95,CIT-L05,False
+13,Cuantiles empíricos,0.95,CIT-L15,True
+14,Cuantiles empíricos,0.95,CIT-L15,True
+15,Cuantiles empíricos,0.95,CIT-L15,True
+16,Cuantiles empíricos,0.95,CIT-L15,True
+17,Cuantiles empíricos,0.95,CIT-L15,True
+18,Cuantiles empíricos,0.95,CIT-L15,True
+19,Cuantiles empíricos,0.95,CIT-L15,True
+20,Cuantiles empíricos,0.95,CIT-L15,True
+21,Cuantiles empíricos,0.95,CIT-L15,False
+22,Cuantiles empíricos,0.95,CIT-L15,True
+23,Cuantiles empíricos,0.95,CIT-L15,True
+24,Cuantiles empíricos,0.95,CIT-L15,True
+25,Cuantiles empíricos,0.95,CIT-L15,True
+26,Cuantiles empíricos,0.95,CIT-L30,True
+27,Cuantiles empíricos,0.95,CIT-L30,True
+28,Cuantiles empíricos,0.95,CIT-L30,True
+29,Cuantiles empíricos,0.95,CIT-L30,True
+30,Cuantiles empíricos,0.95,CIT-L30,True
+31,Cuantiles empíricos,0.95,CIT-L30,True
+32,Cuantiles empíricos,0.95,CIT-L30,True
+33,Cuantiles empíricos,0.95,CIT-L30,True
+34,Cuantiles empíricos,0.95,CIT-L30,True
+35,Cuantiles empíricos,0.95,CIT-L30,True
+36,Cuantiles empíricos,0.95,CIT-L30,True
+37,Cuantiles empíricos,0.95,CIT-L30,True
+38,Cuantiles empíricos,0.95,CIT-L30,True
+39,Cuantiles empíricos,0.95,FUN-B05,True
+40,Cuantiles empíricos,0.95,FUN-B05,True
+41,Cuantiles empíricos,0.95,FUN-B05,True
+42,Cuantiles empíricos,0.95,FUN-B05,True
+43,Cuantiles empíricos,0.95,FUN-B05,True
+44,Cuantiles empíricos,0.95,FUN-B05,True
+45,Cuantiles empíricos,0.95,FUN-B05,True
+46,Cuantiles empíricos,0.95,FUN-B05,False
+47,Cuantiles empíricos,0.95,FUN-B05,False
+48,Cuantiles empíricos,0.95,FUN-B05,True
+49,Cuantiles empíricos,0.95,FUN-B05,False
+50,Cuantiles empíricos,0.95,FUN-B05,False
+51,Cuantiles empíricos,0.95,FUN-B05,True
+52,Cuantiles empíricos,0.95,FUN-B15,True
+53,Cuantiles empíricos,0.95,FUN-B15,True
+54,Cuantiles empíricos,0.95,FUN-B15,True
+55,Cuantiles empíricos,0.95,FUN-B15,True
+56,Cuantiles empíricos,0.95,FUN-B15,True
+57,Cuantiles empíricos,0.95,FUN-B15,True
+58,Cuantiles empíricos,0.95,FUN-B15,True
+59,Cuantiles empíricos,0.95,FUN-B15,False
+60,Cuantiles empíricos,0.95,FUN-B15,False
+61,Cuantiles empíricos,0.95,FUN-B15,False
+62,Cuantiles empíricos,0.95,FUN-B15,True
+63,Cuantiles empíricos,0.95,FUN-B15,False
+64,Cuantiles empíricos,0.95,FUN-B15,False
+65,Cuantiles empíricos,0.95,FUN-B30,True
+66,Cuantiles empíricos,0.95,FUN-B30,True
+67,Cuantiles empíricos,0.95,FUN-B30,True
+68,Cuantiles empíricos,0.95,FUN-B30,True
+69,Cuantiles empíricos,0.95,FUN-B30,True
+70,Cuantiles empíricos,0.95,FUN-B30,True
+71,Cuantiles empíricos,0.95,FUN-B30,True
+72,Cuantiles empíricos,0.95,FUN-B30,True
+73,Cuantiles empíricos,0.95,FUN-B30,True
+74,Cuantiles empíricos,0.95,FUN-B30,True
+75,Cuantiles empíricos,0.95,FUN-B30,True
+76,Cuantiles empíricos,0.95,FUN-B30,True
+77,Cuantiles empíricos,0.95,FUN-B30,True
+78,Cuantiles empíricos,0.95,NEC-D05,True
+79,Cuantiles empíricos,0.95,NEC-D05,True
+80,Cuantiles empíricos,0.95,NEC-D05,True
+81,Cuantiles empíricos,0.95,NEC-D05,True
+82,Cuantiles empíricos,0.95,NEC-D05,True
+83,Cuantiles empíricos,0.95,NEC-D05,True
+84,Cuantiles empíricos,0.95,NEC-D05,True
+85,Cuantiles empíricos,0.95,NEC-D05,True
+86,Cuantiles empíricos,0.95,NEC-D05,True
+87,Cuantiles empíricos,0.95,NEC-D05,True
+88,Cuantiles empíricos,0.95,NEC-D05,True
+89,Cuantiles empíricos,0.95,NEC-D05,True
+90,Cuantiles empíricos,0.95,NEC-D05,True
+91,Cuantiles empíricos,0.95,NEC-D15,True
+92,Cuantiles empíricos,0.95,NEC-D15,True
+93,Cuantiles empíricos,0.95,NEC-D15,True
+94,Cuantiles empíricos,0.95,NEC-D15,True
+95,Cuantiles empíricos,0.95,NEC-D15,True
+96,Cuantiles empíricos,0.95,NEC-D15,True
+97,Cuantiles empíricos,0.95,NEC-D15,True
+98,Cuantiles empíricos,0.95,NEC-D15,True
+99,Cuantiles empíricos,0.95,NEC-D15,True
+100,Cuantiles empíricos,0.95,NEC-D15,True
+101,Cuantiles empíricos,0.95,NEC-D15,False
+102,Cuantiles empíricos,0.95,NEC-D15,True
+103,Cuantiles empíricos,0.95,NEC-D15,True
+104,Cuantiles empíricos,0.95,NEC-D30,True
+105,Cuantiles empíricos,0.95,NEC-D30,True
+106,Cuantiles empíricos,0.95,NEC-D30,True
+107,Cuantiles empíricos,0.95,NEC-D30,True
+108,Cuantiles empíricos,0.95,NEC-D30,True
+109,Cuantiles empíricos,0.95,NEC-D30,True
+110,Cuantiles empíricos,0.95,NEC-D30,True
+111,Cuantiles empíricos,0.95,NEC-D30,True
+112,Cuantiles empíricos,0.95,NEC-D30,True
+113,Cuantiles empíricos,0.95,NEC-D30,True
+114,Cuantiles empíricos,0.95,NEC-D30,True
+115,Cuantiles empíricos,0.95,NEC-D30,True
+116,Cuantiles empíricos,0.95,NEC-D30,True

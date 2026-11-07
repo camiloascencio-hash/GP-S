@@ -1,0 +1,83 @@
+{
+  "politica": {
+    "semana_fin_desarrollo": 143,
+    "modelo": "SARIMAX",
+    "metodo_jerarquico": "Middle-out",
+    "regresores": "promocion (frecuencia esperada de las 52 semanas previas al origen)",
+    "objetivo_validacion": "observado",
+    "ordenes_validacion": {
+      "CIT-L05": [
+        "(1, 0, 'n')",
+        "(2, 1, 'n')"
+      ],
+      "CIT-L15": [
+        "(0, 1, 'n')",
+        "(0, 0, 'n')"
+      ],
+      "CIT-L30": [
+        "(0, 1, 'c')",
+        "(0, 1, 'c')"
+      ],
+      "FUN-B05": [
+        "(0, 0, 'c')",
+        "(1, 1, 'c')"
+      ],
+      "FUN-B15": [
+        "(0, 0, 'c')",
+        "(1, 1, 'c')"
+      ],
+      "FUN-B30": [
+        "(0, 0, 'n')",
+        "(0, 0, 'n')"
+      ],
+      "NEC-D05": [
+        "(0, 1, 'n')",
+        "(0, 0, 'n')"
+      ],
+      "NEC-D15": [
+        "(1, 0, 'n')",
+        "(0, 0, 'n')"
+      ],
+      "NEC-D30": [
+        "(0, 1, 'n')",
+        "(0, 0, 'n')"
+      ],
+      "CIT": [
+        "(0, 0, 'n')",
+        "(0, 0, 'n')"
+      ],
+      "FUN": [
+        "(2, 1, 'c')",
+        "(1, 1, 'c')"
+      ],
+      "NEC": [
+        "(1, 0, 'n')",
+        "(0, 0, 'n')"
+      ],
+      "Planta": [
+        "(1, 0, 'c')",
+        "(0, 0, 'c')"
+      ]
+    },
+    "estimador_sigma": "DE muestral (ddof=1) de los errores fuera de muestra por serie y horizonte; sesgo aparte",
+    "objetivo_incertidumbre": "limpio",
+    "regla_intervalo": "Cuantiles empíricos",
+    "regla_intervalo_por_serie": {
+      "CIT-L05": "Cuantiles empíricos",
+      "CIT-L15": "Cuantiles empíricos",
+      "CIT-L30": "Cuantiles empíricos",
+      "FUN-B05": "Cuantiles empíricos",
+      "FUN-B15": "Cuantiles empíricos",
+      "FUN-B30": "Cuantiles empíricos",
+      "NEC-D05": "Cuantiles empíricos",
+      "NEC-D15": "Cuantiles empíricos",
+      "NEC-D30": "Cuantiles empíricos",
+      "CIT": "Cuantiles empíricos",
+      "FUN": "Cuantiles empíricos",
+      "NEC": "Cuantiles empíricos",
+      "Planta": "Cuantiles empíricos"
+    },
+    "reentrenamiento": "órdenes re-elegidos por AIC con toda la historia disponible; cuotas con las 52 semanas previas"
+  },
+  "sha256": "38f5fca920e6951e9d29b52ddccb071442fff7eefc32d48c6b3eda5144293bec"
+}

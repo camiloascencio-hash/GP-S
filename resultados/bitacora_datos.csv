@@ -15,4 +15,6 @@ maestro_sku,Valores faltantes,0 celdas vacías,Sin acción
 demanda_semanal,Valores faltantes,"3 filas sin ventas_cajas ni dias_sin_stock (['CIT-L15'], semanas [101, 102, 103])",Interpolación lineal (celda 2.3)
 demanda_semanal,Filas duplicadas,0 duplicados,Sin acción
 demanda_semanal,Semanas x SKU,156 semanas x 9 SKU = 1404 filas,Panel completo
-demanda_semanal,Valores atípicos (> 3 veces el nivel de las 13 semanas previas),2 valores,Se reemplazan por el nivel local (ver bitácora de anomalías)
+demanda_semanal,Valores atípicos (> 3 veces el nivel de las 13 semanas previas),2 valores; causa no confirmada,Reemplazo solo en entrenamiento; observación original conservada para validar (4.4)
+calidad_llenado,Fecha de las mediciones de madrugada del turno C,"150 subgrupos (00, 02 y 04 h) con la fecha de inicio del turno",Se suma 1 día: el orden temporal queda igual al número de subgrupo (afecta las reglas de rachas)
+calidad_llenado,Exclusiones de Fase I,"12 subgrupos ({'C': 11, 'B': 1})",Registradas con criterio y ronda; causa no confirmada; sensibilidad con/sin exclusión en 3.3
