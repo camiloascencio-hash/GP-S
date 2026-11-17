@@ -34,7 +34,7 @@ El caso es un solo proyecto que se construye por capas: lo que se concluye en un
 | `resultados/` | Salida de la Entrega 1: tablas, figuras y los traspasos `traspaso_C1` a `traspaso_C4b` que lee la Entrega 2 |
 | `resultados_E2/` | Salida de la Entrega 2: plan del modelo y de la política de referencia, `corridas_MIP.csv` (semilla, límite de tiempo, estado y brecha de cada corrida del solver), sensibilidad, cuadro de mando, programa de la semana 12 y `config_modelo_E2.json` |
 | `requirements.txt` | Versiones fijadas de las librerías (Python 3.13, Google Colab) |
-| `Enunciado (1).pdf` | Enunciado del caso |
+| `Enunciado.pdf` | Enunciado del caso |
 | `Informe_Entrega1_BdM_Grupo_7.pdf` | Informe de la Entrega 1 |
 
 ## Cómo reproducir los resultados
