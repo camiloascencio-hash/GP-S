@@ -1,0 +1,10 @@
+,línea,"adelantar 1 semana a inventario (h, CLP/caja·sem)","hora extra de la línea, por caja vendible (CLP)","hora extra de mezcla, por caja vendible (CLP)","atrasar 1 semana (π, CLP/caja·sem)",semanas de adelanto que cuestan lo mismo que la HE de mezcla,semanas de adelanto que cuestan lo mismo que la HE de línea,semanas de adelanto que cuestan lo mismo que 1 semana de atraso
+NEC-D05,L1,95,951.62,325.52,1400,3.43,10.02,14.74
+NEC-D15,L2,95,825.72,490.21,1400,5.16,8.69,14.74
+NEC-D30,L2,95,1333.85,653.35,1400,6.88,14.04,14.74
+CIT-L05,L1,95,951.62,325.52,1400,3.43,10.02,14.74
+CIT-L15,L2,95,825.72,490.21,1400,5.16,8.69,14.74
+CIT-L30,L2,95,1333.85,653.35,1400,6.88,14.04,14.74
+FUN-B05,L1,95,951.62,325.52,1400,3.43,10.02,14.74
+FUN-B15,L2,95,825.72,490.21,1400,5.16,8.69,14.74
+FUN-B30,L2,95,1333.85,653.35,1400,6.88,14.04,14.74

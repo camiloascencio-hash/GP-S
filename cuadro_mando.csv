@@ -1,0 +1,14 @@
+indicador,valor
+Costo total del plan (CLP),"937,715,464"
+  Producción p·x (CLP),"909,410,147"
+  Costo de planificación: inventario + preparaciones + horas extra + atraso (CLP),"28,305,318"
+  Inventario / Preparaciones / Horas extra / Atraso (% del costo de planificación),56.9 / 39.5 / 3.6 / 0.0
+"Nivel de servicio alcanzado: demanda servida a tiempo (fill rate, %)",100.00
+Nivel de servicio de ciclo esperado con el inventario del plan (%),96.8
+SKU-semana sin atraso (%),100.0
+Inventario medio (cajas) y cobertura (semanas de demanda),"13,049 / 0.95"
+Rotación de inventario (veces en el horizonte / anualizada),13.7 / 54.9
+Utilización media de horas regulares L1 / L2 / MEZ (%),95.7 / 101.0 / 94.7
+Semanas al límite de horas regulares L1 / L2 / MEZ,9 / 13 / 1
+Horas extra totales L1 / L2 / MEZ (h),0.0 / 6.1 / 0.0
+Lotes producidos / CIP envasado / CIP mezcla / cambios de formato,75 / 56 / 29 / 19
