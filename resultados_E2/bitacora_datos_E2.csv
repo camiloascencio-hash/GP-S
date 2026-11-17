@@ -1,0 +1,26 @@
+archivo,chequeo,resultado,observacion
+capacidad_horizonte.csv,Horizonte,"13 semanas, 2026-09-28 a 2026-12-21",Coincide con el pronóstico de la E1 (t = 1 a 13)
+capacidad_horizonte.csv,Mantenciones de mezcla,semanas [6]: [6.0] h; regular + mantención = 55 h,Las horas regulares ya vienen descontadas: no hay que restar la mantención otra vez
+capacidad_horizonte.csv,Mantenciones de L2,"semanas [4, 9]: [8.0, 8.0] h; regular + mantención = 48 h",Las horas regulares ya vienen descontadas: no hay que restar la mantención otra vez
+capacidad_horizonte.csv,Semana 13 (21/12/2026),"regular mezcla 47 h, L1 36 h, L2 40 h, sin mantención registrada","Capacidad menor que la normal (55, 40 y 48 h); coincide con el feriado del viernes 25/12"
+capacidad_horizonte.csv,Costo de hora extra de L1,"No hay columna para L1 (solo L2 y mezcla) y el enunciado tampoco lo da, aunque permite hasta 8 h extra","PENDIENTE: dato faltante, se define al formular el modelo"
+capacidad_horizonte.csv,tasa_mezcla_L_h constante e igual al enunciado (2300),True,OK
+capacidad_horizonte.csv,cip_mezcla_horas constante e igual al enunciado (1.2),True,OK
+capacidad_horizonte.csv,costo_hora_extra_L2_clp constante e igual al enunciado (168000),True,OK
+capacidad_horizonte.csv,costo_hora_extra_mezcla_clp constante e igual al enunciado (121000),True,OK
+capacidad_horizonte.csv,horas_mezcla_extra_max constante e igual al enunciado (10),True,OK
+capacidad_horizonte.csv,horas_L1_extra_max constante e igual al enunciado (8),True,OK
+capacidad_horizonte.csv,horas_L2_extra_max constante e igual al enunciado (16),True,OK
+maestro_sku.csv,Costos y precios = tabla del enunciado §2.1,True,OK
+maestro_sku.csv,"Línea según formato (0,5 L → L1; 1,5 y 3,0 L → L2)",True,OK
+maestro_sku.csv,"Tasas de envasado = enunciado §2.2 (180, 210 y 130 cajas/h)",True,OK
+maestro_sku.csv,Costo de inventario y penalidad de atraso,[95] y [1400] CLP/caja·semana,"Iguales para todos los SKU, como el enunciado §2.4"
+enunciado §2.3,"Cambio de formato en L1 (0,4 h)","L1 envasa un solo formato (0,5 L), y cada familia tiene un solo SKU en L1","PENDIENTE: el dato existe, pero en L1 no hay dos formatos de una misma familia entre los cuales cambiar"
+setups_cip.csv,Costo = horas × 74.000 (enunciado §2.3),True,OK
+setups_cip.csv,Diagonal nula y asimetría,"diagonal = 0: True; pares asimétricos: [('CIT', 'FUN'), ('CIT', 'NEC'), ('FUN', 'NEC')]",Matriz completa disponible para el modelo
+inventario_inicial.csv,Lead time de jarabe,[1] semana(s) en los 9 SKU,PENDIENTE: el enunciado no dice si es entre mezcla y envasado o de abastecimiento; se define al formular
+inventario_inicial.csv,Nivel de servicio objetivo,"{'NEC-D05': 0.95, 'NEC-D15': 0.95, 'NEC-D30': 0.95, 'CIT-L05': 0.95, 'CIT-L15': 0.95, 'CIT-L30': 0.95, 'FUN-B05': 0.92, 'FUN-B15': 0.92, 'FUN-B30': 0.92}","95 % en CIT y NEC, 92 % en FUN"
+inventario_inicial.csv,Atraso inicial,El archivo no trae atraso pendiente al inicio del horizonte,Solo inventario inicial
+compromisos_semana_focal.csv,Línea y familia de cada orden = maestro,True,OK
+compromisos_semana_focal.csv,Detalle por día y hora,"15 órdenes, días [2, 3, 4, 5]","La E2 usa la suma semanal por SKU (§7.1, elemento 8); día y hora son para la E3"
+compromisos_semana_focal.csv,Pedidos en firme frente al pronóstico de la semana 12,entre 28 % y 67 % del pronóstico,Ningún SKU tiene más pedidos firmes que pronóstico

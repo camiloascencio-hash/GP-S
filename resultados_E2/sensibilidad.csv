@@ -1,0 +1,9 @@
+escenario,estado,costo total (CLP),cota (CLP),brecha (%),tiempo (s),inventario,atraso,preparacion,deficit_ss,horas_extra,produccion,inventario medio (cajas),atraso (caja·semana),horas extra L1,horas extra L2,horas extra MEZ,Δ costo vs base (CLP),Δ costo vs base (%)
+Mezcla −10 %,"factible, cortado por tiempo sin probar el óptimo",942009592.02,941550781.32,0.05,150.0,16039369.76,-0.0,11246800.0,0.0,5313275.69,909410146.57,12987.34,-0.0,0.0,7.56,33.41,4352167.91,0.46
+Base,óptimo dentro de la tolerancia de brecha,937657424.11,937507542.92,0.02,95.8,16057256.93,-0.0,11170800.0,0.0,1019220.61,909410146.57,13001.83,-0.0,0.0,6.07,0.0,0.0,0.0
+Mezcla +10 %,óptimo dentro de la tolerancia de brecha,937555497.79,937405535.87,0.02,50.8,15727730.61,-0.0,11297600.0,0.0,1120020.61,909410146.57,12735.0,-0.0,0.0,6.67,0.0,-101926.32,-0.01
+NS 90 % todos,óptimo dentro de la tolerancia de brecha,926889788.02,926739876.9,0.02,45.9,14493148.92,0.0,11132800.0,0.0,44667.51,901219171.58,11735.34,0.0,0.0,0.27,0.0,-10767636.09,-1.15
+NS 98 % todos,óptimo dentro de la tolerancia de brecha,959516175.41,959366441.38,0.02,78.7,18848653.08,0.0,11565000.0,0.0,3000343.72,926102178.61,15262.07,0.0,0.0,17.18,0.95,21858751.3,2.33
+"Quiebre π × 0,5",óptimo dentro de la tolerancia de brecha,937565187.8,937415469.73,0.02,99.7,16190713.13,372907.49,10992200.0,0.0,599220.61,909410146.57,13109.89,532.72,0.0,3.57,0.0,-92236.31,-0.01
+Quiebre π × 2,óptimo dentro de la tolerancia de brecha,937737963.26,937587966.33,0.02,80.3,15816796.08,0.0,11273400.0,0.0,1237620.61,909410146.57,12807.12,0.0,0.0,7.37,0.0,80539.15,0.01
+Sin horas extra,"factible, cortado por tiempo sin probar el óptimo",938985351.95,938306619.45,0.07,150.1,16562932.08,2301273.3,10711000.0,0.0,0.0,909410146.57,13411.28,1643.77,0.0,0.0,0.0,1327927.84,0.14

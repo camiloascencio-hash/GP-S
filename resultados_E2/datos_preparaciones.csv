@@ -1,0 +1,5 @@
+concepto,recurso,horas,costo_clp,fuente
+CIP de mezcla entre familias,MEZ,1.2,88800.0,capacidad_horizonte.csv y §2.3
+Cambio de formato en la misma familia,L1,0.4,38000.0,enunciado §2.3
+Cambio de formato en la misma familia,L2,0.6,38000.0,enunciado §2.3
+Costo de una hora de CIP,todos,1.0,74000.0,enunciado §2.3 y §2.4
