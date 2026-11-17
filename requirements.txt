@@ -1,0 +1,14 @@
+# Caso integrador Bebidas del Maipo S.A. · Grupo 7 · versiones fijadas (§9 del enunciado)
+# Python 3.13 (Google Colab, noviembre de 2026). Con estas versiones se ejecutaron de principio a fin
+# Entrega1_BdM_v2.ipynb y Entrega2_BdM.ipynb. Los cuadernos instalan pulp y highspy en estas versiones
+# si no están; el resto viene preinstalado en Colab.
+#
+# Instalación local:  pip install -r requirements.txt
+
+numpy==2.4.6
+pandas==2.2.3
+scipy==1.16.3
+statsmodels==0.15.0
+matplotlib==3.10.0
+pulp==2.9.0
+highspy==1.15.1
